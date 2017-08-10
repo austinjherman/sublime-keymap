@@ -2,6 +2,9 @@
 
 
 [
+
+
+
     // Movement
     { "keys": ["ctrl+b"], "command": "move", "args": {"by": "characters", "forward": false} },
     { "keys": ["ctrl+f"], "command": "move", "args": {"by": "characters", "forward": true} },
